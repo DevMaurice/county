@@ -1,0 +1,29 @@
+{
+  "name": "County",
+  "version": "1.0.0",
+  "authors": [
+    "DevMaurice <developermaurice@gmail.com>"
+  ],
+  "description": "Kenyan Goverment Counties Info",
+  "keywords": [
+    "County",
+    "Gov"
+  ],
+  "license": "MIT",
+  "homepage": "www.countyKenya.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0",
+    "datatables": "~1.10.9",
+    "datatables-plugins": "~1.10.9"
+  }
+}
